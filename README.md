@@ -1,11 +1,16 @@
 # 3DPointCloudInQt
 Environment configuration for 3D point cloud visualization in Qt5
 
+<div align=center><img width=40% height=40% src="docs/example.png" alt="visualization example"/></div>
+
 ## Equipment Requirements
 - System: win10
 - Architecture: amd64
 
 ## Configuration Content
+
+<div align=center><img width=40% height=40% src="docs/logo.png" alt="configuration content"/></div>
+
 - VS2019
 - Qt5.14
 - VTK8.2

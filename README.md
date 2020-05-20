@@ -17,4 +17,4 @@ Environment configuration for 3D point cloud visualization in VS2019 with Qt5.
 - PCL1.11
 - Opencv4
 
-The goal is to visualize the 3D point cloud in VS2019 with qt5. Please read install/install.md for details. We also prepared a sample vs2019 project for testing configuration success.
+The goal is to visualize the 3D point cloud in VS2019 with qt5. Please refer to install/install.md for details. We also prepared a sample vs2019 project for testing configuration success.

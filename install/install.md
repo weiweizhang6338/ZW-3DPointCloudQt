@@ -120,11 +120,11 @@
 
 - 选择添加PCL的相关库到环境变量中：
 
-<div align=center><img width=80% height=80% src="../docs/23.png" alt="23"/></div>
+<div align=center><img width=50% height=50% src="../docs/23.png" alt="23"/></div>
 
 - 不勾选VTK，我们已经自行编译
 
-<div align=center><img width=80% height=80% src="../docs/24.png" alt="24"/></div>
+<div align=center><img width=50% height=50% src="../docs/24.png" alt="24"/></div>
 
 安装完成之后，我们在安装文件夹里可以如下的目录结构：
 
@@ -180,11 +180,11 @@
 
 在Release 64下选择添加新项目属性表，命名为msvc2019_64
 
-<div align=center><img width=80% height=80% src="../docs/34.png" alt="34"/></div>
+<div align=center><img width=50% height=50% src="../docs/34.png" alt="34"/></div>
 
 双击新构建的属性表
 
-<div align=center><img width=80% height=80% src="../docs/35.png" alt="35"/></div>
+<div align=center><img width=50% height=50% src="../docs/35.png" alt="35"/></div>
 
 我们一共需要更改3个地方，分别是VC++目录下的包含目录和库目录，还有链接器下的输入
 
@@ -194,11 +194,11 @@
 
 - 包含目录，为各个库的include文件夹
 
-<div align=center><img width=80% height=80% src="../docs/37.png" alt="37"/></div>
+<div align=center><img width=60% height=60% src="../docs/37.png" alt="37"/></div>
 
 - 库目录，为各个库的lib文件夹
 
-<div align=center><img width=80% height=80% src="../docs/38.png" alt="38"/></div>
+<div align=center><img width=60% height=60% src="../docs/38.png" alt="38"/></div>
 
 - 链接器输入，各个库的lib文件夹里的所有*.lib文件，这里将其列出：
 

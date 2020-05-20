@@ -28,7 +28,7 @@
 ## VS2019中添加Qt配置
 1. 启动VS2019，如需登录，可跳过，并选择“继续但无需代码”来启动
 
-<div align=center><img width=80% height=80% src="../docs/04.png" alt="04"/></div>
+<div align=center><img width=50% height=50% src="../docs/04.png" alt="04"/></div>
 
 2. 从菜单栏依次点击“扩展->管理扩展”，打开界面后，先点联机，在输入框搜索Qt，选择Qt Visual Studio Tools下载安装
 
@@ -44,7 +44,7 @@
 
 添加完成之后可以设置默认使用的编译器，OK保存
 
-<div align=center><img width=80% height=80% src="../docs/08.png" alt="08"/></div>
+<div align=center><img width=60% height=60% src="../docs/08.png" alt="08"/></div>
 
 ## VTK的编译安装
 
@@ -128,7 +128,7 @@
 
 安装完成之后，我们在安装文件夹里可以如下的目录结构：
 
-<div align=center><img width=80% height=80% src="../docs/25.png" alt="25"/></div>
+<div align=center><img width=40% height=40% src="../docs/25.png" alt="25"/></div>
 
 之后在环境变量中查看，确认我们已经将PCL添加到环境变量，即：
 
@@ -176,7 +176,7 @@
 
 我们首先配置项目环境，点击下方的属性管理器
 
-<div align=center><img width=80% height=80% src="../docs/33.png" alt="33"/></div>
+<div align=center><img width=40% height=40% src="../docs/33.png" alt="33"/></div>
 
 在Release 64下选择添加新项目属性表，命名为msvc2019_64
 

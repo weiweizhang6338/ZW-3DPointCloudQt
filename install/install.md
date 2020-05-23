@@ -154,6 +154,8 @@
 
 <div align=center><img width=80% height=80% src="../docs/27.png" alt="27"/></div>
 
+另外，为了防止其他软件如Anaconda的环境变量设置与上述环境变量冲突或者重复，请将上述环境变量置顶。
+
 打开VS2019，选择“创建新项目”，选择“Qt GUI Application”，下一步
 
 <div align=center><img width=80% height=80% src="../docs/28.png" alt="28"/></div>

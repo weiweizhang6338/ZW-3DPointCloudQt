@@ -48,7 +48,7 @@
 
 ## VTK的编译安装
 
-1.  在https://vtk.org/download/下载8.2版的源码：
+1.  在https://vtk.org/download/ 下载8.2版的源码：
 
 <div align=center><img width=80% height=80% src="../docs/09.png" alt="09"/></div>
 
@@ -56,7 +56,7 @@
 
 <div align=center><img width=80% height=80% src="../docs/10.png" alt="10"/></div>
 
-3. 在cmake官网https://cmake.org/download/下载最新版的win版cmake
+3. 在cmake官网https://cmake.org/download/ 下载最新版的win版cmake
 
 <div align=center><img width=80% height=80% src="../docs/11.png" alt="11"/></div>
 
